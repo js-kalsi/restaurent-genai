@@ -58,8 +58,8 @@ ollama pull llama3
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/restaurant-menu-generator.git
-cd restaurant-menu-generator
+git clone https://github.com/js-kalsi/restaurent-genai.git
+cd restaurent-genai
 ```
 
 ### 3️⃣ Set Up a Virtual Environment & Install Dependencies
